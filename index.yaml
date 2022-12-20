@@ -9,7 +9,7 @@ entries:
     name: accesschart
     type: application
     urls:
-    - https://prdsv.github.io/repo-rdsv/accesschart-0.1.0.tgz
+    - https://github.com/prdsv/repo-rdsv/accesschart-0.1.0.tgz
     version: 0.1.0
   cpechart:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: cpechart
     type: application
     urls:
-    - https://prdsv.github.io/repo-rdsv/cpechart-0.1.0.tgz
+    - https://github.com/prdsv/repo-rdsv/cpechart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-20T19:05:44.24640959+01:00"
